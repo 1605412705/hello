@@ -1,0 +1,16 @@
+{
+    "name": "1605412705/hello",
+    "type": "library",
+    "authors": [
+        {
+            "name": "1605412705",
+            "email": "1605412705@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }
+}
